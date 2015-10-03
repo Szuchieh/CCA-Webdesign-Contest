@@ -1,1 +1,2 @@
 # CCA-Webdesign-Contest
+This CSS code was created for a web design contest in my Building Websites class at California College of the Arts. The assignemnt was to take a static HTML page and style it with CSS.

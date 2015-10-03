@@ -1,0 +1,409 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+.headerh1{
+	background: url(../images/header.png);
+	height: 945px;
+	width: 1366px;
+	margin: auto;
+	background-repeat: no-repeat;
+	
+}
+
+.headerh1 span {
+	display: none;
+}
+	
+.contestants h3{
+text-indent: -1000px;
+width: 300px;
+height: 111px;
+}
+
+
+.contestants{
+	background: url(../images/menu.png);
+	width: 300px;
+	height: 103px;
+	font-size: 25px;
+	font-family: 'Amatic SC', cursive;
+	float: left;
+		
+	
+		}
+
+ul{
+	-moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+}
+
+
+ul li {
+		
+	list-style-type: none;
+	width: 70px;
+
+}
+
+li {
+	margin-bottom: 20px;
+}
+.lucas:hover:after{
+	content: url(../images/lucas.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+    
+}
+
+.lucas:active{
+	background: url(../images/chris2.png) no-repeat; 
+	display: block;
+	position:absolute;
+	/*top:-150px;*/ 
+	left: 150px;
+    width: 960px;
+	height: 810px;
+	}
+
+
+.larry:hover:after{
+	content: url(../images/larry.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1250px;
+}
+
+.szu-chieh:hover:after{
+	content: url(../images/szuchieh.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.kobra:hover:after{
+	content: url(../images/kobra.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.ally:hover:after{
+	content: url(../images/ally.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.molly:hover:after{
+	content: url(../images/molly.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.tanya:hover:after{
+	content: url(../images/tanya.png);
+    display: block;
+    position: absolute;
+    left:  610px;
+    top: 1250px;
+}
+
+.mandy:hover:after{
+	content: url(../images/mandy.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.peggy:hover:after{
+	content: url(../images/peggy.png);
+    display: block;
+    position: absolute;
+   left: 610px;
+    top: 1300px;
+}
+
+.kammy:hover:after{
+	content: url(../images/kammy.png);
+    display: block;
+    position: absolute;
+    left: 630px;
+    top: 1300px;
+}
+
+.hai-ci:hover:after{
+	content: url(../images/hai-ci.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.jackie:hover:after{
+	content: url(../images/jackie.png);
+    display: block;
+    position: absolute;
+    left: 630px;
+    top: 1300px;
+}
+
+.armando:hover:after{
+	content: url(../images/armando.png);
+    display: block;
+    position: absolute;
+    left: 630px;
+    top: 1250px;
+}
+
+.alexa:hover:after{
+	content: url(../images/alexa.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.chops:hover:after{
+	content: url(../images/chops.png);
+    display: block;
+    position: absolute;
+    left: 650px;
+    top: 1300px;
+}
+
+.stephanie:hover:after{
+	content: url(../images/stephanie.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.javier:hover:after{
+	content: url(../images/javier.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+
+.chiara:hover:after{
+	content: url(../images/chiara.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.ernest:hover:after{
+	content: url(../images/ernest.png);
+    display: block;
+    position: absolute;
+    left: 620px;
+    top: 1300px;
+}
+
+.ana:hover:after{
+	content: url(../images/ana.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.logan:hover:after{
+	content: url(../images/logan.png);
+    display: block;
+    position: absolute;
+    left: 620px;
+    top: 1250px;
+}
+
+.ruxin:hover:after{
+	content: url(../images/ruxin.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+
+.cynthia:hover:after{
+	content: url(../images/cynthia.png);
+    display: block;
+    position: absolute;
+    left: 610px;
+    top: 1300px;
+}
+              
+.host{
+
+	margin:auto;
+	background-image: url(../images/chris.png);
+	background-repeat: no-repeat;
+	width: 960px;
+	height: 810px;
+}
+
+.host:hover:after{
+	content: url(../images/chris2.png);
+	background-repeat: no-repeat;
+	position: absolute;
+    left: 230px;
+    top: 973px;
+	width: 960px;
+	height: 810px;
+}
+
+.host span{
+	display: none;
+}
+
+.chris{
+	display: none;
+}
+
+
+.content h2 span {
+	padding-left: 2cm;
+	font-size: 50px;
+	
+}
+
+
+.content{
+	display: inline-block;
+	margin: auto;
+	width: 100%;
+	color: blue;
+	background-image: url(../images/content.png);
+	width: 1680px;
+	height: 834px;
+	font-family: 'Amatic SC', cursive; 
+	font-size: 20px;
+	letter-spacing: 2px;
+		
+	
+/*}
+ .ideablocksection{
+	float: left;
+	width: 30%;
+}
+.rulesblocksection
+{	float: left;
+	width: 30%;
+}
+
+.prizeblocksection{
+	float: left;
+	width: 550%;
+	
+}
+*/
+.footer{
+	margin: auto;
+	width: 200px;
+	color: orange;
+	display: block;
+}
+
+/*
+
+.headerh1:hover{
+background: url();
+}
+body{
+	margin: auto;
+	width: 80%;
+	color: #ffffff;
+	background: url(../images/bg.jpg) center center;
+	background-size: cover;
+
+}
+
+
+/*page styles
+
+
+.container{
+	width: 900px;
+	border: dotted 10px #DE7832 ;
+	background: rgba(255,255,255, .30);
+
+}
+
+.header{
+	margin:0;
+}
+
+.contestants{
+	/*background-image: #eeeeee;
+	height: 200px;
+	overflow: auto;
+	position: absolute;
+	top:0;
+	left:0;
+	/*left:-100px;
+	top: -50px;	
+}
+
+.contestants ul{
+	list-style: none;
+	padding: 0;
+
+}
+
+.contestants li{
+	float: left;
+	height: 200px;
+	width: 200px;
+	border: 1px solid red; 
+	margin-bottom: 10px; 
+	text-indent: -10000px;
+}
+.contestantsli:hover{
+	background:#fff;
+}
+
+.section{
+	width: 280px;
+	height: 0;
+	margin:0;
+	padding top:35px;
+	background: #fadedd; 
+	overflow: hidden; 
+	transition: 1s;
+}
+}
+
+.section:hover{
+	background: #fff;
+	height: 350px;
+	padding top:0px;
+}
+
+.footer{
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	overflow: hidden;
+	left:50%;
+	margin-left: 250%;
+
+}
+
+
+
+
